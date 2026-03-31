@@ -1,6 +1,6 @@
-#  Enlight AI Chatbot - Premium Monochrome Edition
+#  Enlight AI Chatbot
 
-A sophisticated, context-aware conversational agent built as a full-stack app. This bot combines a premium monochrome design system with a robust, locally-run NLP matching engine.
+A context-aware conversational agent built as a full-stack app.
 
 ---
 
